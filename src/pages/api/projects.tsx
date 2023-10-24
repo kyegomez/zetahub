@@ -3,9 +3,9 @@ import { NextApiRequest, NextApiResponse } from "next"
 const projects = [
   {
     id: 1,
-    name: "github-search",
+    name: "LongNet",
     deployment_url: "github-search-virid-seven.vercel.app",
-    last_commit_name: "update home",
+    last_commit_name: "Train on enwiki8",
     updated_at: {
       when: "12/26/21",
       from_other_services: true,
@@ -14,9 +14,9 @@ const projects = [
   },
   {
     id: 2,
-    name: "ignews",
+    name: "Kosmos",
     deployment_url: "ignews.vercel.app",
-    last_commit_name: "update readme",
+    last_commit_name: "Update MultiModal Encoder",
     updated_at: {
       when: "12/16/21",
       from_other_services: true,
@@ -25,8 +25,8 @@ const projects = [
   },
   {
     id: 3,
-    name: "wise-rick-next-app",
-    deployment_url: "wise-rick-next-app.vercel.app",
+    name: "Andromeda",
+    deployment_url: "Fix the tokenizer",
     last_commit_name: "add dark mode",
     updated_at: {
       when: "10/28/21",
@@ -36,9 +36,19 @@ const projects = [
   },
   {
     id: 4,
-    name: "dashboard",
+    name: "Navit",
     deployment_url: "dashboard.vercel.app",
-    last_commit_name: "finish customization",
+    last_commit_name: "Gather datasets for facial recognition",
+    updated_at: {
+      when: "09/06/21",
+      from_other_services: false
+    }
+  },
+  {
+    id: 5,
+    name: "BitNet",
+    deployment_url: "dashboard.vercel.app",
+    last_commit_name: "Add Linear to forward pass",
     updated_at: {
       when: "09/06/21",
       from_other_services: false

@@ -14,9 +14,9 @@ function WorkspacesSelect () {
         <div className={styles.currentWorkspace}>
 
           <div className={styles.workspaceIcon}>
-            <Image src="https://github.com/datsfilipe.png" alt="Filipe Lima" width="30" height="30"/>
+            <Image src="https://github.com/datsfilipe.png" alt="Kye Gomez" width="30" height="30"/>
           </div>
-          Filipe Lima
+          Kye Gomez
 
           <div className={styles.workspaceTag}>
             Hobby
