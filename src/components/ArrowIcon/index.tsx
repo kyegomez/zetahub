@@ -1,8 +1,7 @@
 import { SelectHTMLAttributes } from 'react'
 
 import { MdKeyboardArrowUp, MdKeyboardArrowDown  } from 'react-icons/md'
-
-import styles from './styles.module.scss'
+import styles from "./styles.module.scss"
 
 function ArrowIcon (props: SelectHTMLAttributes<HTMLSelectElement>) {
   return (
